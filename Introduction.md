@@ -34,3 +34,25 @@ The experiments simulate a student revising for a university digital marketing e
 
 ## 📁 Repository Structure
 
+📂Result/ 
+┣ 📄Highlighting.md
+┣ 📄Contextual Q&A.md
+┣ 📄Summarization.md
+┗ 📄README.md
+
+📂Data/ (Source files used in experiments)
+
+---
+
+## ✅ Conclusion
+
+NotebookLM offers a promising set of tools for improving study efficiency, especially in summarising content and interactive Q&A. However, occasional content omissions and hallucination risks mean it should be used as a **support tool**, not a sole source of truth. Human validation is still essential in academic contexts.
+
+---
+
+## 📌 Author
+
+**Phuong Khanh Vy Nguyen**  
+Master of Business Analytics  
+La Trobe University  
+
