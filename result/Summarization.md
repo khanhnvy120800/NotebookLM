@@ -23,7 +23,12 @@ We assessed:
 
 ### **Result**
 
-NotebookLM generated clear and readable summaries that reflected the main points of each document. For example, the case study summary correctly identified campaign goals, influencer selection criteria, and KPI results.
+NotebookLM generated clear and readable summaries that reflected the main points of each document. 
+![image](https://github.com/user-attachments/assets/c36b7a11-044f-497f-b884-52cb0a538d26)
+
+For example, the case study summary correctly identified campaign goals, influencer selection criteria, and KPI results.
+![image](https://github.com/user-attachments/assets/52dcec7f-df47-4496-b1ba-edbee6412297)
+
 
 In some cases, overly broad summaries omitted finer details, but no hallucinations were observed. The summarisation speed was excellent.
 
