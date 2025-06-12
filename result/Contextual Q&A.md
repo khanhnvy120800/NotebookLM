@@ -6,9 +6,9 @@ To evaluate NotebookLM’s ability to provide accurate, source-based answers to 
 
 ### **Method**  
 Lecture content and textbook excerpts were uploaded, then questions were asked using plain English, such as:
-- “What affects email open rates?”
-- “How is ROI measured in digital marketing?”
-- “What is the AIDA model?”
+- “Criteria for Dividing Customers into Target Groups”
+- “How to Rank High in Search Engines?”
+- “What is SEO?”
 
 The goal was to verify:
 - Whether responses were accurate and context-based
@@ -19,9 +19,13 @@ The goal was to verify:
 
 ### **Result**
 
-NotebookLM accurately extracted answers from uploaded lecture content. When asked about "ROI calculation," it generated an explanation that referenced both cost metrics and conversion tracking strategies.
+NotebookLM accurately extracted answers from uploaded lecture content. When asked about "Criteria for Dividing Customers into Target Groups" it generated an explanation that referenced both criteria and example variables that can classified.
+
+![image](https://github.com/user-attachments/assets/bca51559-e0db-4365-b42f-69be5f577c65)
 
 Responses were context-sensitive and mostly free of hallucinations. The assistant was particularly strong at summarising models (e.g., AIDA, STP) from course notes.
+
+![image](https://github.com/user-attachments/assets/4190c1e3-0b01-4863-8eb7-d5a2170bf2e6)
 
 ---
 
