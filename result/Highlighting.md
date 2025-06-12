@@ -21,9 +21,11 @@ We focused on the following research questions:
 
 ### **Result**
 ![image](https://github.com/user-attachments/assets/4b777cf0-cf1a-4df4-9b79-8f331f484de9)
+
 The highlighting tool worked smoothly, preserving selections across both PDF and Google Docs uploads. 
 
 For example, highlighting “AIDA model” in one slide also linked to examples from case studies with related performance metrics.
+
 ![image](https://github.com/user-attachments/assets/70fd1da3-94a1-40a2-ad95-ccf98508265a)
 
 ---
