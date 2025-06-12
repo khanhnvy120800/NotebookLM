@@ -38,7 +38,7 @@ The experiments simulate a student revising for a university digital marketing e
 ┣ 📄Highlighting.md
 ┣ 📄Contextual Q&A.md
 ┣ 📄Summarization.md
-┗ 📄README.md
+
 
 📂Data/ (Source files used in experiments)
 
