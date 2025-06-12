@@ -1,4 +1,4 @@
-# Experiment 3: Contextual Q&A Functionality
+# Experiment 1: Contextual Q&A Functionality
 ### **Objectives**  
 To evaluate NotebookLM’s ability to provide accurate, source-based answers to user queries related to digital marketing concepts.
 
