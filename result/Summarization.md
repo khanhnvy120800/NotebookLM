@@ -1,4 +1,4 @@
-# Experiment 4: AI Summarisation Functionality
+# Experiment 3: AI Summarisation Functionality
 ### **Objectives**  
 To test NotebookLM’s ability to summarise long and dense content into accurate and concise study material, especially useful when revising for a digital marketing exam.
 
@@ -8,7 +8,6 @@ To test NotebookLM’s ability to summarise long and dense content into accurate
 The user uploaded three sources:
 - A 20-page case study on influencer marketing
 - Lecture slides on marketing funnel strategies
-- A whitepaper on email automation
 
 NotebookLM’s summarisation feature was used to extract:
 - Key marketing tactics
